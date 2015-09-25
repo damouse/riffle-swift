@@ -1,0 +1,20 @@
+PODS:
+  - Nimble (1.0.0)
+  - Quick (0.3.1)
+  - Riffle (0.1.0)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick (~> 0.3.1)
+  - Riffle (from `../`)
+
+EXTERNAL SOURCES:
+  Riffle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 8bee528e5fcc403653076545db562d2b5db7bb87
+  Quick: 824572d3d198d51e52cf4aa722cebf7e59952a35
+  Riffle: a5c61a1453603bc0f647f9e99926cf634ca5455e
+
+COCOAPODS: 0.38.2
